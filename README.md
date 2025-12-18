@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi 👋, I'm Suraj Reddy
 
-<!--
-**Suraj-000/Suraj-000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSR Student | School of AI, IIT Delhi  
+🤖 Interested in Reinforcement Learning, Graph ML, and Generative Models  
+🎯 Aspiring researcher in 3D Generative Models & Graph-based AI  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔬 Research Interests
+- Reinforcement Learning (A2C, PPO, GFlowNets)
+- Graph Neural Networks & Graph Reasoning
+- Generative Models (Diffusion, 3D Gen Models)
+- Multimodal & Knowledge Graph Systems
+
+---
+
+### 🛠️ Tech Stack
+- **Languages:** Python, C++, Bash  
+- **ML/DL:** PyTorch, NumPy, scikit-learn  
+- **RL:** Stable-Baselines3, Custom A2C/PPO  
+- **Tools:** Git, VS Code, Hydra, Linux  
+
+---
+
+### 📌 Featured Projects
+- 🔹 **A2C & PPO from Scratch** – Custom implementation with experiments  
+- 🔹 **Graph-based Reasoning Models**  
+- 🔹 **GFlowNet Experiments on Crystals**
+
+👉 Check my repositories below ⬇️
+
+---
+
+### 📊 GitHub Stats
+![Suraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suraj-000&show_icons=true&theme=tokyonight)
+
+---
+
+### 👀 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=Suraj-000&color=blue)
+
