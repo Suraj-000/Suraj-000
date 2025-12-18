@@ -1,15 +1,12 @@
-# Hi 👋, I'm Suraj Reddy
+# Hi 👋, I'm Suraj
 
-🎓 MSR Student | School of AI, IIT Delhi  
-🤖 Interested in Reinforcement Learning, Graph ML, and Generative Models  
-🎯 Aspiring researcher in 3D Generative Models & Graph-based AI  
+🎓 Student
 
 ---
 
 ### 🔬 Research Interests
-- Reinforcement Learning (A2C, PPO, GFlowNets)
-- Graph Neural Networks & Graph Reasoning
-- Generative Models (Diffusion, 3D Gen Models)
+- Graph Neural Networks
+- Generative Models 
 - Multimodal & Knowledge Graph Systems
 
 ---
@@ -17,15 +14,9 @@
 ### 🛠️ Tech Stack
 - **Languages:** Python, C++, Bash  
 - **ML/DL:** PyTorch, NumPy, scikit-learn  
-- **RL:** Stable-Baselines3, Custom A2C/PPO  
 - **Tools:** Git, VS Code, Hydra, Linux  
 
 ---
-
-### 📌 Featured Projects
-- 🔹 **A2C & PPO from Scratch** – Custom implementation with experiments  
-- 🔹 **Graph-based Reasoning Models**  
-- 🔹 **GFlowNet Experiments on Crystals**
 
 👉 Check my repositories below ⬇️
 
