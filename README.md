@@ -28,5 +28,5 @@
 ---
 
 ### 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=Suraj-000&color=blue)
+![Profile Views](https://visitcount.itsvg.in/api?id=Suraj-000&label=Profile%20Views&color=0&icon=5&pretty=true)
 
